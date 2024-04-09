@@ -1,29 +1,63 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mathew Rajath Thomson
-====================================================================================================================================
+---
 
-Data Scientist
---------------
+# 👋 Hello, I'm Mathew Rajath Thomson! 
 
-* 🌍  I'm based in United Kingdom
+Welcome to my GitHub space! I'm a seasoned Data Scientist with a knack for turning data into actionable insights and innovative solutions. With a background that bridges AI, machine learning, and product management, I'm on a mission to make a difference in the tech world, one dataset at a time.
 
-### Skills
+## 🌐 Connect With Me!
 
+Let's get social and professional:
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajath-thomson/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/rajaththomson)
+
+## 🛠️ My Toolkit
+
+Here’s a peek at the tools and technologies I wield:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
+
+And more...
+
+## 🎓 Education
+
+- **M.Sc. Artificial Intelligence & Data Science**, University of Hull, UK 🇬🇧 *(Distinction, 2023-2024)*
+- **PG Diploma in International Business**, FORE School of Management, India 🇮🇳 *(2015-2017)*
+- **B.Eng. Computer Science**, College of Engineering, Trivandrum, India 🇮🇳 *(2010-2014)*
+
+## 💼 Experience
+
+**Omdena, UK** *(2024-Present)*
+- Junior Machine Learning Engineer: Spearheading AI innovations for global mapping.
+
+**AMIT GPS & Navigation, India** *(2017-2023)*
+- Product Manager: Navigating the future with cutting-edge GPS technology.
+
+## 🚀 Highlight Projects
+
+- **AI-Enhanced Financial Chatbot** for BCG: Merging finance and AI for breakthrough insights.
+- **Customer Insights** for British Airways: Flying high with advanced sentiment analysis.
+
+## 🏆 Certifications
+
+- **Coursera**: Python for Data Science, AI & Development, 2023
+- **ISRO**: Remote Sensing Techniques, 2022
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/rajaththomson">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajaththomson&show_icons=true&theme=synthwave" alt="Mathew's GitHub Stats" />
+  </a>
+  <a href="https://github.com/rajaththomson">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaththomson&layout=compact&theme=synthwave" alt="Top Languages" />
+  </a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/rajaththomson" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rajath-thomson/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rajaththomson"><img src="https://github-readme-stats.vercel.app/api?username=rajaththomson&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rajaththomson's GitHub stats" /></a>
-
-<a href="http://www.github.com/rajaththomson"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajaththomson&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/rajaththomson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaththomson&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
