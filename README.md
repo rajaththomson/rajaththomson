@@ -1,63 +1,60 @@
----
-
-# 👋 Hello, I'm Mathew Rajath Thomson! 
-
-Welcome to my GitHub space! I'm a seasoned Data Scientist with a knack for turning data into actionable insights and innovative solutions. With a background that bridges AI, machine learning, and product management, I'm on a mission to make a difference in the tech world, one dataset at a time.
-
-## 🌐 Connect With Me!
-
-Let's get social and professional:
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajath-thomson/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/rajaththomson)
-
-## 🛠️ My Toolkit
-
-Here’s a peek at the tools and technologies I wield:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
-
-And more...
-
-## 🎓 Education
-
-- **M.Sc. Artificial Intelligence & Data Science**, University of Hull, UK 🇬🇧 *(Distinction, 2023-2024)*
-- **PG Diploma in International Business**, FORE School of Management, India 🇮🇳 *(2015-2017)*
-- **B.Eng. Computer Science**, College of Engineering, Trivandrum, India 🇮🇳 *(2010-2014)*
-
-## 💼 Experience
-
-**Omdena, UK** *(2024-Present)*
-- Junior Machine Learning Engineer: Spearheading AI innovations for global mapping.
-
-**AMIT GPS & Navigation, India** *(2017-2023)*
-- Product Manager: Navigating the future with cutting-edge GPS technology.
-
-## 🚀 Highlight Projects
-
-- **AI-Enhanced Financial Chatbot** for BCG: Merging finance and AI for breakthrough insights.
-- **Customer Insights** for British Airways: Flying high with advanced sentiment analysis.
-
-## 🏆 Certifications
-
-- **Coursera**: Python for Data Science, AI & Development, 2023
-- **ISRO**: Remote Sensing Techniques, 2022
-
-## 📊 GitHub Analytics
+<h1 align="center">🎩 Mathew Rajath Thomson - The Data Wizard 🎩</h1>
+<p align="center">Cultivating Data, One Cuppa at a Time</p>
 
 <p align="center">
-  <a href="https://github.com/rajaththomson">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajaththomson&show_icons=true&theme=synthwave" alt="Mathew's GitHub Stats" />
-  </a>
-  <a href="https://github.com/rajaththomson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaththomson&layout=compact&theme=synthwave" alt="Top Languages" />
-  </a>
+  <a href="https://www.linkedin.com/in/rajath-thomson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://github.com/rajaththomson"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajaththomson/rajaththomson/main/banner_uk_theme.png" alt="A humorous take on UK's iconic elements with a data science twist">
+</p>
+
+## About Me 🕵️
+
+From the land of spices and space missions, now navigating the foggy realms of AI in the UK. I'm Mathew - who codes by day and dreams in Malayalam by night. As a Data Scientist trapped in a Sherlock Holmes novel, my days consist of solving mysteries hidden within datasets, sipping tea, and occasionally debating whether Python is indeed named after the snake or the comedy group. Spoiler: It's the latter, which clearly explains my coding style - efficient with a touch of unexpected humor. 
+## 🛠 Technical Tinkerings
+
+Here's my arsenal, not including the kettle for my tea:
+
+- **Languages & Libraries**: Python (loves a good Python joke), SQL (Structured Query Laughter), PyTorch, TensorFlow (as stretchy as freshly made chappatis)
+- **Tools & Platforms**: AWS (Absolutely Wonderful Service), Google Cloud (for when London's cloudy weather isn't enough), Docker (ships data faster than the Royal Mail)
+- **Data Analysis & Visualisations**: Pandas (not the bear), NumPy (number of pies?), Matplotlib, Seaborn (see less, do more)
+
+## 🎓 Educational Escapades
+
+- **MSc in Artificial Intelligence & Data Science** - Learned how to make computers smart, still working on humans.
+- **PG Diploma in Management (International Business)** - Because managing data wasn’t enough, I decided to manage businesses too.
+- **BEng in Computer Science** - Where I learned that computers sometimes do what you tell them to.
+
+## 💼 Career Chronicles
+
+### Junior Machine Learning Engineer at Omdena, UK
+*Apr 2024 - Present*
+- Tackling AI with the seriousness of a British comedy show.
+
+### Product Manager at AMIT GPS & Navigation, India
+*Nov 2017 - Jan 2023*
+- Guiding products and occasionally lost tourists to their destinations.
+
+## 🚀 Project Pilgrimage
+
+- **Generative AI-Enhanced Financial Chatbot** - Making finance funny, one chat at a time.
+- **Customer Insights for British Airways** - Discovering what makes passengers tick, besides the ticking clock in the terminal.
+
+## 📊 GitHub Gala
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajaththomson&show_icons=true&theme=city_lights" alt="Mathew's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaththomson&layout=compact&theme=city_lights" alt="Top Languages">
+</p>
+
+## 🌱 Currently Cultivating
+
+- Perfecting my tea brewing technique with statistical analysis.
+- Exploring how quantum computing might finally explain cricket rules.
+
+## 🤝 Let's Banter
+
+Whether you're interested in data science, looking for a laugh, or need an explanation on the offside rule in football, I’m your chap. Tea's always ready.
+
