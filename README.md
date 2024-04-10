@@ -1,4 +1,13 @@
 <h1 align="center">🎩 Mathew Rajath Thomson - The Data Wizard 🎩</h1>
+
+## About Me 🕵️
+
+From the land of spices and space missions, now navigating the foggy realms of AI in the UK. I'm Mathew - who codes by day and dreams in Malayalam by night. As a Data Scientist trapped in a Sherlock Holmes novel, my days consist of solving mysteries hidden within datasets, sipping tea, and occasionally debating whether Python is indeed named after the snake or the comedy group. Spoiler: It's the latter, which clearly explains my coding style - efficient with a touch of unexpected humor. 
+
+<p align="center">
+  <img src="https://github.com/rajaththomson/rajaththomson/assets/40268159/139a915b-866f-4d32-aec5-6008640bbc72" alt="A humorous take on UK's iconic elements with a data science twist">
+</p>
+
 <p align="center">Cultivating Data, One Cuppa at a Time</p>
 
 <p align="center">
@@ -6,13 +15,6 @@
   <a href="https://github.com/rajaththomson"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/rajaththomson/rajaththomson/assets/40268159/139a915b-866f-4d32-aec5-6008640bbc72" alt="A humorous take on UK's iconic elements with a data science twist">
-</p>
-
-## About Me 🕵️
-
-From the land of spices and space missions, now navigating the foggy realms of AI in the UK. I'm Mathew - who codes by day and dreams in Malayalam by night. As a Data Scientist trapped in a Sherlock Holmes novel, my days consist of solving mysteries hidden within datasets, sipping tea, and occasionally debating whether Python is indeed named after the snake or the comedy group. Spoiler: It's the latter, which clearly explains my coding style - efficient with a touch of unexpected humor. 
 ## 🛠 Technical Tinkerings
 
 Here's my arsenal, not including the kettle for my tea:
