@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajaththomson/rajaththomson/main/banner_uk_theme.png" alt="A humorous take on UK's iconic elements with a data science twist">
+  <img src="[https://raw.githubusercontent.com/rajaththomson/rajaththomson/main/banner_uk_theme.png](https://github.com/rajaththomson/rajaththomson/assets/40268159/139a915b-866f-4d32-aec5-6008640bbc72)" alt="A humorous take on UK's iconic elements with a data science twist">
 </p>
 
 ## About Me 🕵️
