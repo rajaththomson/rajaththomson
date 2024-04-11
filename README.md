@@ -5,7 +5,7 @@
 From the land of spices and space missions, now navigating the foggy realms of AI in the UK. I'm Mathew - who codes by day and dreams in Malayalam by night. As a Data Scientist trapped in a Sherlock Holmes novel, my days consist of solving mysteries hidden within datasets, sipping tea, and occasionally debating whether Python is indeed named after the snake or the comedy group. Spoiler: It's the latter, which clearly explains my coding style - efficient with a touch of unexpected humor. 
 
 <p align="center">
-  <img src="[https://github.com/rajaththomson/rajaththomson/assets/40268159/465f55ec-269e-4d56-82f2-9b4af97d0593]" alt="A humorous take on UK's iconic elements with a data science twist">
+  <img src="https://github.com/rajaththomson/rajaththomson/assets/40268159/465f55ec-269e-4d56-82f2-9b4af97d0593" alt="A humorous take on UK's iconic elements with a data science twist">
 </p>
 
 <p align="center">Cultivating Data, One Cuppa at a Time</p>
