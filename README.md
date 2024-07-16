@@ -31,8 +31,8 @@ Here's my arsenal, not including the kettle for my tea:
 
 ## 💼 Career Chronicles
 
-### Junior Machine Learning Engineer at Omdena, UK
-*Apr 2024 - Present*
+### Machine Learning Engineer at Omdena, UK
+*June 2024 - Present*
 - Tackling AI with the seriousness of a British comedy show.
 
 ### Product Manager at AMIT GPS & Navigation, India
